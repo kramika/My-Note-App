@@ -3,22 +3,20 @@ The app is simple and easy to operate. It contains a list of notes assigning eac
 
 Welcome Screen(Splash Screen)
 
-![1](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_184142.jpg)
+<img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_184142.jpg" width="40%" />
 
 Note Insertion Screen
 
-![2](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185013.jpg)
+<img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185013.jpg" width="40%" />
 
 Note updation Screen with Post-updation Screen
 
-![3](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185035.jpg)
-
-![4](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185108.jpg)
+<img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185035.jpg" width="200" />     <img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185108.jpg" width="200" />
 
 Post-deletion Screen(On right swipe)
 
-![5](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185028.jpg)
+<img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185028.jpg" width="40%" />
 
 List of notes in Recycler View
 
-![6](https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185006.jpg)
+<img src="https://github.com/kramika/My-Note-App/blob/main/Screenshot_20230704_185006.jpg" width="40%" />
